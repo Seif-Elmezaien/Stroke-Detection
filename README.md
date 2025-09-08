@@ -49,7 +49,19 @@ Clone the repository:
 ```bash
 git clone https://github.com/Seif-Elmezaien/Stroke-Detection.git
 cd Stroke-Detection
+```
 
+
+## ⬇️ Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+
+##▶️Usage
+```bash
+streamlit run app.py
+```
 
 This project is for educational purposes as part of my internship.
 The dataset is publicly available on Kaggle.
