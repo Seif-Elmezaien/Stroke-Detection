@@ -63,4 +63,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-**This project is for educational purposes as part of my internship. The dataset is publicly available on Kaggle.**
+## **This project is for educational purposes as part of my internship. The dataset is publicly available on Kaggle.**
